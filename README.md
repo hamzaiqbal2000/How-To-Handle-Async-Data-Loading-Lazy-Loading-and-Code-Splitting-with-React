@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+## How To Handle Async Data Loading, Lazy Loading, and Code Splitting with React
+
+Asynchronous functions create efficient user-friendly applications. However, their advantages come with some subtle costs that can evolve into bugs in your program. You now have tools that will let you split large applications into smaller pieces and load asynchronous data while still giving the user a visible application. You can use the knowledge to incorporate API requests and asynchronous data manipulations into your applications creating fast and reliable user experiences.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
